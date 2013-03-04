@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Ativ Control
+Exec=path_to_ativ.py
+Terminal=false
+Type=Application
