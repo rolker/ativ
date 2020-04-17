@@ -25,7 +25,7 @@ class App(Tkinter.Frame):
     self.TOUCH.pack({'side':'top'})
     
     r = randr.RandR()
-    self.output = r.find('eDP1')
+    self.output = r.find('eDP-1')
 
     
     self.NORMAL = Tkinter.Button(self)
